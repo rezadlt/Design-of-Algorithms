@@ -1,2 +1,3 @@
 # Design-of-Algorithms
-Practical assginments for Design of Algorithms Course
+Practical assignments for the Design of Algorithms Course at Sharif University of Technology.
+
